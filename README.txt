@@ -1,7 +1,7 @@
 Rendering configurations applied on my pc for ps2 games
 
+PCSX2 Version: v1.7.4873
 My System Info:
-
 neofetch 
              ...-:::::-...                 psychonaut@Latitude-E5440 
           .-MMMMMMMMMMMMMMM-.              ------------------------- 
