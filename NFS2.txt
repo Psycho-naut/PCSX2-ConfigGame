@@ -1,0 +1,6 @@
+Rendering:
+
+Risoluzione Interna: Native(PS2)
+Filtraggio Texture: Bilineare(PS2)
+Dithering: Ridimensionato
+Precisione del blending: Elevata
